@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -25,8 +25,9 @@ projects:
   exclude:
     archived: false
     forks: true
-    projects:
-    # - repo-name
+    projects: -test
+    
+        # - repo-name
 
 # social_media:
   # behance: your_username
