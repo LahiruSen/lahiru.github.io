@@ -36,15 +36,15 @@ projects:
         # - repo-name
 
 social_media:
+  linkedin: lahirusenevirathna
+  medium: lahiru.16
   # behance: your_username
   # dribbble: your_username
   facebook: lahiru.senevirathna.95
   # hackerrank: your_username
   instagram: lahiru_senevirathne
   # keybase: your_username
-  linkedin: lahirusenevirathna
   # mastodon: your_username
-  # medium: your_username
   stackoverflow: 8967062
   # telegram: your_username
   twitter: LahiruCSE
@@ -62,6 +62,10 @@ topics:
     web_url: https://spring.io/projects/spring-boot
     image_url: https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg
 
+  - name: AWS
+    web_url: https://aws.amazon.com/
+    image_url: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
+
   - name: Angular
     web_url: https://angular.io/
     image_url: https://cdn.worldvectorlogo.com/logos/angular-icon.svg
@@ -70,6 +74,3 @@ topics:
     web_url: https://keras.io/
     image_url: https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg
 
-  - name: AWS
-    web_url: https://aws.amazon.com/
-    image_url: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
