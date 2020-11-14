@@ -18,14 +18,20 @@ defaults:
 
 projects:
   sort_by: stars
-  # sort_by options:
-  #   - pushed
-  #   - stars
+  sort_by options:
+     - pushed
+     - stars
   limit: 9
   exclude:
     archived: false
     forks: true
     projects: -test
+              -lahiru1.github.io
+              -NLP-CourceEraNLP-CourceEra
+              -my-app
+              -OOSD
+              -OOSD-G27
+              -git-demo-lahiru
 
         # - repo-name
 
